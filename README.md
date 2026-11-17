@@ -416,7 +416,7 @@ Le dashboard permet :
 
 # Répartition de l'équipe
 
-## Étudiant 1
+## Abart Raphael
 
 Data Engineering
 
@@ -424,7 +424,7 @@ Data Engineering
 - Docker
 - PostgreSQL
 
-## Étudiant 2
+## Lelandais Clément
 
 Big Data
 
@@ -432,7 +432,7 @@ Big Data
 - PySpark
 - Feature Engineering
 
-## Étudiant 3
+## Ouedraogo Inoussa
 
 Machine Learning / MLOps
 
